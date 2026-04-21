@@ -2,8 +2,6 @@
 
 An agentic AI system that evaluates the credibility of research papers by combining deterministic rule-based checks with multi-agent AI debate.
 
-Inspired by the architecture of [rgoerwit/ai-investment-agent](https://github.com/rgoerwit/ai-investment-agent), adapted from finance to scientific peer review.
-
 ## What it does
 
 Given a paper's metadata and text, the system produces a verdict — `CREDIBLE`, `PROMISING`, `WEAK`, or `UNRELIABLE` — along with a plain-English summary, the specific reasoning from three reviewers, and concrete follow-up questions.
